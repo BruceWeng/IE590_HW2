@@ -1,0 +1,86 @@
+Ideas:
+Bruce:
+Course Map: a campus map showing courses in selected class time.
+show classroom usage arrangement all day long
+show shortest route between classes with given course schedule
+show popular course area by number of registered students during past years
+give student better experience choosing course with visualized number of registered students
+Purdue campus population density (real-time)
+Find data on course enrollment
+total internet traffic volume? We might be able to get something from ITAP
+Worry:
+Not enough information to make it really useful (you can’t tell which courses are popular, etc.)
+What would it be useful for? Why would people come look at it?
+Since the data is spread out, how long will it take to gather?
+We might not be able to get the non-academic buildings to be portrayed accurately
+Permission to have access record from each facilities?
+Task: 
+course collection time cost
+Can we get old building traffic statistics (e.g. from the dining courts or co-rec) - Call them and ask.
+	Source: https://selfservice.mypurdue.purdue.edu/prod/bwckctlg.p_disp_dyn_ctlg?
+
+
+      2.   Coupon gathering: gathering grocery coupons from each market and find the best 
+discount.
+Maybe not coupons? If we do the normal price with sale price as a (mouseover?) option, then the data gathering is more straightforward
+We can put them on a map, so students can plan shopping routes
+Maybe have bus routes?
+Some way for the viewers to contact us for changes/new products
+	Worries:
+How many items to include?
+How many markets? (count them, base our decisions on the “shopping list”)
+How often will we need to update? (sales)
+	Task:
+Independently make a “shopping list”
+	Source:
+http://www.walmart.com/
+http://www.payless.com/
+http://www.meijer.com/
+ House : Price, Utility, Map
+Map of West Lafayette with rents, house quality, utilities
+This is the strongest of the ideas as far as visualizations go
+Overlay bus routes
+Parking availability
+Worries?
+Variation in the subjective ratings (how run-down the building is, etc.)
+Intangibles, like insulation affecting cost of utilities (crowdsource the data) (maybe infer from how old the buildings are)
+	Source:
+ 1. http://www.forrentuniversity.com/Purdue-University
+	 2. http://www.commercialbrokersinc.com/php/apartments.php
+	 3. http://cochranapartments.com/rental_listings
+	 4. http://www.granitestudentliving.com/purdue-rental-properties
+	 5. 
+
+
+Restaurant wait times
+Task: try collecting data for a few nights to a week
+     3. 	Graduate Student Career Position: show career position of graduate students
+Need to update data from LinkIn
+Need to update data from departments
+focus on only one department or the latest year of most graduated students  
+Kris:
+US Income tax rates vs. actual tax collected (total)
+Source: the Department of Revenue publishes this data
+“Cost” of having low income - unable to take advantage of the economies of scale
+Beer branch map (with mouseover recipes?)
+
+Environmental something: emissions or energy usage on a world map?
+Smoking on a world map?
+Tuition breakdown - compare different schools (they publish budgets)
+smartphone sales globally (normalized for population?)
+social media usage/traffic regionally/globally?
+
+
+Taejin
+
+
+Rsource:
+Bruce: 
+This is a competition website for data scientist. There are lots of associations provide their data and topics for developers to solve. This is a great source as a reference to think about our topic by digging through the datas and displaying novel ideas.
+https://www.kaggle.com/ 
+30 places to find open data on the web:
+http://blog.visual.ly/data-sources/
+Datasets for Data mining and Data Science:
+http://www.kdnuggets.com/datasets/index.html
+
+
